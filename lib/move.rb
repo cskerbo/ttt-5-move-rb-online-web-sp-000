@@ -13,7 +13,4 @@ end
 
 def move(board, index, character)
 
-  def update_board(board, index, character)
-  board[index] = character
-
 end
